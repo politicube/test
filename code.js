@@ -360,6 +360,7 @@ trace14 = {
   text: ['More Right', 'More Authoritarian', 'More Conservative','More Left','More Libertarian','More Progressive'],
   textposition: 'bottom',
   type: 'scatter3d'
+textfont: { size: 8}
 };
 
 
