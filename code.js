@@ -359,8 +359,8 @@ trace14 = {
   name: 'Labels',
   text: ['More Right', 'More Authoritarian', 'More Conservative','More Left','More Libertarian','More Progressive'],
   textposition: 'bottom',
-  type: 'scatter3d',
-textfont: { size: 8}
+  type: 'scatter3d'
+
 };
 
 
