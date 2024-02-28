@@ -2053,7 +2053,7 @@ onEvent("button13","click",function(){
   setScreen("buildScreen");
 });
 onEvent("paypal","click",function(){
-  open("https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lippie4solidarity@gmail.com&lc=US&no_note=0&item_name=Help+me+continue+to+make+the+Politigram+Compass+the+only+political+test+specific+to+Politigram+(and+buy+my+college+textbooks)!&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted");
+  open("https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lippie4solidarity@gmail.com&lc=US&no_note=0&item_name=Help+me+continue+to+make+the+PolitiCube+the+only+political+test+specific+to+Politigram+(and+buy+my+college+textbooks)!&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted");
 });
 onEvent("button9","click",function(){
   clearCanvas();
@@ -2063,7 +2063,7 @@ onEvent("button15", "click", function( ) {
 	open("https://www.youtube.com/channel/UCAlumeBQWQiEMCI9ydG6gGg");
 });
 onEvent("button7", "click", function( ) {
-	open("https://www.instagram.com/politigram.compass/?hl=en");
+	open("https://www.instagram.com/the.politicube/?hl=en");
 });
 onEvent("button11", "click", function( ) {
 	setScreen("disclaimerScreen");
